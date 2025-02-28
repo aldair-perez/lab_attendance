@@ -1,0 +1,7 @@
+---
+title: "lab_attendance"
+name: Aldair Perez
+format: html
+---
+
+## I'm getting used to using RStudio and Github, how to render, and how to push. 
