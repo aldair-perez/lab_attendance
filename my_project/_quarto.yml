@@ -1,5 +1,6 @@
 project:
-  title: "my_project"
+ title: "lab-attendance"
+ output-dir: docs
 
 
 
